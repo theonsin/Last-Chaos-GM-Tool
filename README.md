@@ -21,10 +21,14 @@ Features:
 * Echo All support
 * Dynamic command generation
 
+![Announcements](docs/Screenshot_2.png)
+
 ### Event Management
 Server-specific event tools and event automation modules.
 
 Supports custom server implementations and expandable event packs.
+
+![Event Management](docs/Screenshot_14.png)
 
 ### Player Management
 Administrative actions for player moderation.
@@ -40,6 +44,8 @@ Features:
 * Automatic command generation
 * One-click execution
 
+![Player Management](docs/Screenshot_3.png)
+
 ### Buff Management
 Quick access to commonly used GM buffs.
 
@@ -47,6 +53,8 @@ Included:
 * Blu Cube Effect
 * Winds Blessing
 * Custom Buff Commands
+
+![Buff Management](docs/Screenshot_4.png)
 
 ### Item Tools
 Integrated item string reader.
@@ -62,6 +70,8 @@ Features:
 Supported files:
   - strItem_us.lod
 
+![Item Tools](docs/Screenshot_5.png)
+
 ### Spawn Tools
 Integrated NPC string reader.
 
@@ -76,12 +86,16 @@ Features:
 Supported files:
 - strNpcName_us.lod
 
+![Spawn Tools](docs/Screenshot_6.png)
+
 ### Character Statistics
 Character enhancement utilities.
 
 Included:
 * Speed Buff Generator
 * Stat Distribution Tool
+
+![Character Statistics](docs/Screenshot_7.png)
 
 ### Quick Actions
 One-click Game Master shortcuts.
@@ -95,6 +109,8 @@ Available actions:
 
 Designed for rapid in-game administration.
 
+![Quick Actions](docs/Screenshot_8.png)
+
 ### Command History
 Track executed commands.
 
@@ -106,6 +122,8 @@ Features:
   
 Useful for administrative auditing and repeated actions.
 
+![Command History](docs/Screenshot_9.png)
+
 ### Automation System
 Built-in Auto Command scheduler.
 
@@ -116,6 +134,8 @@ Features:
 * Configurable intervals
 * Queue protection
 * Command delay configuration
+
+![Automation System](docs/Screenshot_10.png)
 
 ### Session Statistics
 Monitor current administration session.
@@ -129,6 +149,8 @@ Tracks:
 
 Provides a quick overview of GM activity.
 
+![Session Statistics](docs/Screenshot_11.png)
+
 ### Application Settings
 **Themes**
 
@@ -141,6 +163,8 @@ Built-in themes:
 **Startup Options**
 * Remember Last Selected Client
 * Update Preferences
+
+![Application Settings](docs/Screenshot_12.png)
 
 ---
 
@@ -161,6 +185,7 @@ Available statuses:
 ## Multi-Client Support
 The application can detect active Last Chaos clients automatically.
 
+![Multi-Client Support](docs/Screenshot_1.png)
 
 ---
 
@@ -174,6 +199,8 @@ Features include:
 * Administrator privilege detection
 * One-click restart as administrator
 * Secure process communication
+
+![Security](docs/aar.png)
 
 ---
 
