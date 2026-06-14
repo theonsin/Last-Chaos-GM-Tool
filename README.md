@@ -182,6 +182,8 @@ Available statuses:
 * 🟢 You're using the latest version
 * 🟡 Update available
 
+![Automatic Updates](docs/upd.png)
+
 ## Multi-Client Support
 The application can detect active Last Chaos clients automatically.
 
