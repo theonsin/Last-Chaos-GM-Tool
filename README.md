@@ -250,3 +250,5 @@ New features, quality-of-life improvements and administration tools are continuo
 ---
 
 Created by **theonsin**
+
+[![wakatime](https://wakatime.com/badge/user/d552153a-46a4-4e4d-844e-f5cec15b1459/project/37e28444-e1a0-426e-90b3-8e6318907753.svg)](https://wakatime.com/badge/user/d552153a-46a4-4e4d-844e-f5cec15b1459/project/37e28444-e1a0-426e-90b3-8e6318907753)
